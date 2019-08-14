@@ -92,7 +92,7 @@ class Sandwich extends Component {
     };
     axios
       .post('https://sandwich-2f4a2.firebaseio.com/orders.json', order);
-    alert('Your order is received!');
+    alert('Your order is received. Thank you!');
     this.purchaseCancelHandler();
   };
 
