@@ -171,7 +171,7 @@ class Sandwich extends Component {
         {/* This div shows OrderSummary */}
         <Modal show={this.state.purchasing}>{orderSummary}</Modal>
         {/* This div draws Sandwich */}
-        <h1 className={classes.Headline}>Make your own sandwich here!</h1>
+        <header className={classes.Headline}>Make your own sandwich here!</header>
         <div className={classes.Sandwich}>
           <Ingredient type="bread-top" />
           {sandwich}
