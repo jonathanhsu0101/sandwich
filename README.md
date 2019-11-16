@@ -1,10 +1,16 @@
+# What does it look like?
+
+https://github.com/jonathanhsu0101/sandwich/blob/master/Capture.PNG
+
 # What's this?
 
 This is a sandwich ordering app.
 
-You can select the ingredients of your sandwich. Your order will be saved in Firebase database for the kitchen to process.
+You can select the ingredients of your sandwich. Your order will be saved in database for the kitchen to process.
 
 This project was created with React.
+
+Use FireBase as back-end database.
 
 # How to install
 
